@@ -1,0 +1,39 @@
+body {
+    background-color: #000000;
+    font-family: Arial;
+  }
+
+.content {
+    max-width: 900px;
+    margin: auto;
+    background: #ebebeb;
+    padding: 10px;
+  }
+
+h1 {
+    color: #EAEAEA;
+    margin-left: 0px;
+  }
+  
+p {
+      color:#3d3d3d;
+  }
+
+#1 {
+    
+}
+
+aside {
+      background-color: #929292;
+      float: right;
+      right: 0px;
+      width: 200px;
+      height: 400px;
+      border: 0px;
+      padding: 5px;
+  }
+
+li {
+      border: 0px;
+      display: inline;
+  }
