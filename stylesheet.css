@@ -36,25 +36,14 @@ p {
     color: #3d3d3d;
 }
 
-img {
-    max-width: 100%;
-}
-
 #image1 {
     float: left;
-}
-
-#image2 {
-    float: left;
-}
-
-#turtle {
-    width: 100%;
 }
 
 #section2 {
     float: left;
 }
 
-
-
+#section3 {
+    float: left;
+}
