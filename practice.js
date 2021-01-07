@@ -7,5 +7,11 @@ function askUserName() {
     alert("Hello " + userName);
     document.write("Welcome to the site " + userName + "!");
   }
+}
 
+function refresh() {
+  var refreshquestion = confirm("Would you like to refresh the page?");
+  if (refreshquestion == true) {
+    window.location.reload();
+  }
 }
