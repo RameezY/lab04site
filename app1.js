@@ -17,7 +17,7 @@ function askUserName() {
   }
   
   function printRatings() {
-    var src = '<img src="/star.png">';
+    var src = '<img src="https://github.com/RameezY/lab04site/blob/main/star.png?raw=true">';
     var messedUp = "You messed up, try again!";
     var bad = true;
   
